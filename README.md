@@ -1,5 +1,7 @@
+updating readme file
 # Seed package for Lab1
 Npm package to be used for Lab1
+
 
 ## How to clone it
 Follow these steps:
